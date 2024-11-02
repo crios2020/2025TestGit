@@ -1,0 +1,4 @@
+#banner:hover{
+    rotate: 180deg;
+    transition: 2s;
+}
